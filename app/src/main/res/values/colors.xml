@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna utama -->
+    <color name="colorPrimary">#3F51B5</color> <!-- Biru -->
+    <color name="colorPrimaryDark">#303F9F</color> <!-- Biru lebih gelap -->
+    <color name="colorAccent">#FF4081</color> <!-- Warna aksen pink -->
+
+    <!-- Warna latar belakang dan teks -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- Abu-abu muda -->
+    <color name="textColorPrimary">#212121</color> <!-- Teks utama -->
+    <color name="textColorSecondary">#757575</color> <!-- Teks sekunder -->
+
+    <!-- Warna tombol dan input -->
+    <color name="buttonColor">#3F51B5</color> <!-- Warna tombol utama -->
+    <color name="inputBackgroundColor">#FFFFFF</color> <!-- Latar belakang input -->
+
+    <!-- Warna untuk error atau peringatan -->
+    <color name="colorError">#D32F2F</color> <!-- Merah untuk error -->
+</resources>
